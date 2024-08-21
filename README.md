@@ -9,10 +9,9 @@ This repository contains a custom WordPress snippet that automatically renames c
 - Easy to integrate into any WordPress theme by adding the snippet to your `functions.php` file.
 
 ## Installation
+- Add the code to your active WordPress theme's functions.php file.
+- Once the snippet is added to your functions.php file and your theme is active, any new LearnDash quiz questions you clone will automatically have "Copy of" appended to their title.
 
-### 1. Clone the Repository
 
-Clone the repository to your local WordPress theme directory:
 
-```bash
-git clone https://github.com/yourusername/your-repo.git
+
